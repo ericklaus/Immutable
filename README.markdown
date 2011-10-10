@@ -1,0 +1,1 @@
+An exploration of immutability in C#. This project exists mostly for me to familiarize myself with immmutability, GitHub, and various other tools that I want to explore. Although I don't intend to turn out bad code, it would probably be a bad idea to take any of this as a best practice.
