@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immutable", "Immutable.csproj", "{F2430D44-4980-4F73-8894-D0BF5AA3882C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableTest", "..\ImmutableTest\ImmutableTest.csproj", "{3C35EC8E-D975-49F4-9B4D-E654AF44A96E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F8243B4-4916-4342-8A81-C1FC754F0045}"
+	ProjectSection(SolutionItems) = preProject
+		Immutable.vsmdi = Immutable.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Immutable.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2430D44-4980-4F73-8894-D0BF5AA3882C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2430D44-4980-4F73-8894-D0BF5AA3882C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2430D44-4980-4F73-8894-D0BF5AA3882C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2430D44-4980-4F73-8894-D0BF5AA3882C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C35EC8E-D975-49F4-9B4D-E654AF44A96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C35EC8E-D975-49F4-9B4D-E654AF44A96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C35EC8E-D975-49F4-9B4D-E654AF44A96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C35EC8E-D975-49F4-9B4D-E654AF44A96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
